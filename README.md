@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Muhammad%20Farhandi%20Rahim&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Penetration%20Tester%20and%20Cyber%20Security%20Enthusiast&descSize=30&descAlignY=85&section=header" />
 
-I'm Kelvin Prayoga, a student majoring in Cyber Security Engineering at the Batam State Polytechnic. I have high interest and knowledge in Information Technology Security, especially in the field of 
-Penetration Testing, Network Security, and Security Risk Management. As a student I continue to strive to improve my skills and experience to research careers in the IT field.
+A 6th-semester student of the Cyber Security Engineering Program at Batam State Polytechnic with strong passion of  understanding of cyber security and system administrator. Highly motivated to learn new skills and like to adapt and is easy to communicate. Has research in cyber security skills and with a strong commitment to continuous professional growth.
 
 I focus on conducting penetration testing to ensure web applications are not only functional but also secure against potential threats. My specialization includes identifying vulnerabilities such as XSS, SQL Injection, and CSRF, with expertise in tools like Burp Suite, OWASP ZAP, and Nmap. As a quick learner and adaptive thinker, I thrive in dynamic environments where cybersecurity and continuous improvement are a priority. My collaborative nature allows me to work effectively with development and security teams, contributing both technical expertise and a humble attitude that values input from every team member.
 
