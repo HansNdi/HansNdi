@@ -6,7 +6,7 @@ I focus on conducting penetration testing to ensure web applications are not onl
 
 [![Mail Badge](https://img.shields.io/badge/-m.farhandirahim@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:m.farhandirahim@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@andifarhan2-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/goan.hans) 
-[![Linkedin Badge](https://img.shields.io/badge/m-farhandi-rahim-649031352?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-farhandi-rahim/) 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--0284c7?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-farhandi-rahim/) 
 [![](https://img.shields.io/github/followers/kelvinprayoga46?label=GitHub%20Followers)](https://github.com/kelvinprayoga46)
 
 
