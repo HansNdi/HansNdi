@@ -4,11 +4,9 @@ A 6th-semester student of the Cyber Security Engineering Program at Batam State 
 
 I focus on conducting penetration testing to ensure web applications are not only functional but also secure against potential threats. My specialization includes identifying vulnerabilities such as XSS, SQL Injection, and CSRF, with expertise in tools like Burp Suite, OWASP ZAP, and Nmap. As a quick learner and adaptive thinker, I thrive in dynamic environments where cybersecurity and continuous improvement are a priority. My collaborative nature allows me to work effectively with development and security teams, contributing both technical expertise and a humble attitude that values input from every team member.
 
-[![Mail Badge](https://img.shields.io/badge/-kelvinprayoga46@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:kelvinprayoga46@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@pin.pryga__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/pin.pryga) 
-[![Linkedin Badge](https://img.shields.io/badge/kelvin-prayoga-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-prayoga/) 
-[![Tiktok](https://img.shields.io/badge/-Helix-171717?style=flat&labelColor=171717&logo=tiktok&logoColor=white)](https://www.tiktok.com/@itsyourtimehelix/)
-[![](https://komarev.com/ghpvc/?username=kelvinprayoga46&color=blue&label=Profile%20Views)](https://github.com/satriabahari/kelvinprayoga46)
+[![Mail Badge](https://img.shields.io/badge/-m.farhandirahim@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:m.farhandirahim@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@andifarhan2-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/goan.hans) 
+[![Linkedin Badge](https://img.shields.io/badge/m-farhandi-rahim-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-farhandi-rahim/) 
 [![](https://img.shields.io/github/followers/kelvinprayoga46?label=GitHub%20Followers)](https://github.com/kelvinprayoga46)
 
 
